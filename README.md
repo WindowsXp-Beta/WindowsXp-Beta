@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 This is **WindowsXp**, an undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [Software engineering](http://www.se.sjtu.edu.cn/).
 
 A diligent learner, not talented however.
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WindowsXp-Beta&layout=compact&hide=css,scss,hcl,Tcl&langs_count=10&theme=tokyonight' width='400px'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WindowsXp-Beta&layout=compact&hide=scss,hcl,Tcl&langs_count=10&theme=tokyonight' width='400px'>
 ### Also
 - fan of NBA :basketball:
 - interested in nearly all kinds of movies :movie_camera:

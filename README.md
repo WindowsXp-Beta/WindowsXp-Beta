@@ -36,12 +36,12 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 <!--START_SECTION:waka-->
 
 ```text
-Rust              14 hrs 10 mins  ██████████████████░░░░░░░   72.43 %
-Python            2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-Protocol Buffer   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-YAML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-C++               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-SQL               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Rust              14 hrs 10 mins  ███████████████████▒░░░░░   77.34 %
+Python            1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Protocol Buffer   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+YAML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+SQL               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+tmux              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->

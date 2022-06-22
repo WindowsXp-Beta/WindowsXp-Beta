@@ -36,12 +36,12 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 <!--START_SECTION:waka-->
 
 ```text
-Rust              12 hrs 20 mins  ████████████████████▓░░░░   82.04 %
-Protocol Buffer   50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Python            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-YAML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-tmux              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Git Config        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Rust              11 hrs 13 mins  █████████████████████▒░░░   84.95 %
+Protocol Buffer   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+YAML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+tmux              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Git Config        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Other             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->

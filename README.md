@@ -36,8 +36,8 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 <!--START_SECTION:waka-->
 
 ```text
-Rust         9 hrs 10 mins   ██████████████████████▒░░   88.88 %
-Other        34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Rust         5 hrs 1 min     █████████████████████░░░░   84.66 %
+Other        25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->

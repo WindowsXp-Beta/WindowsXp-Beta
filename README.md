@@ -36,8 +36,10 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 <!--START_SECTION:waka-->
 
 ```text
-Rust         4 hrs 58 mins   █████████████████████▒░░░   85.93 %
-Other        23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Python       26 mins         █████████████████▒░░░░░░░   69.71 %
+Rust         10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

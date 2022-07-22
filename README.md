@@ -36,8 +36,12 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 <!--START_SECTION:waka-->
 
 ```text
-Text    0 secs          █████████████████████████   100.00 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON         1 hr 24 mins    ████████████▒░░░░░░░░░░░░   49.39 %
+C            29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+Python       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+JavaScript   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Text         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+C#           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->

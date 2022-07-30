@@ -36,9 +36,9 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     59 mins         ██████████████████▒░░░░░░   73.46 %
-Text         14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-Other        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Markdown     1 hr 11 mins    ███████████████████▒░░░░░   77.04 %
+Text         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Other        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->

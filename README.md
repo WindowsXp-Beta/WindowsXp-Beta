@@ -39,12 +39,9 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Rust              20 hrs 11 mins  ██████████████████▒░░░░░░   73.22 %
-Python            3 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Protocol Buffer   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-JSON              1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-SQL               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-C++               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Markdown   45 mins         ██████████▓░░░░░░░░░░░░░░   43.14 %
+Python     36 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 %
+Other      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
 ```
 
 <!--END_SECTION:waka-->

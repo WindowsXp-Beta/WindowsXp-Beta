@@ -12,13 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello world :earth_asia:
+# Hello world :earth_asia:
+
 ![GitHub followers](https://img.shields.io/github/followers/WindowsXp-Beta?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WindowsXp-Beta)
 
-This is **WindowsXp**, aka. Xinpeng Wei, an undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [Software engineering](http://www.se.sjtu.edu.cn/) system software track.
+This is **WindowsXp**, aka. Xinpeng Wei, an senior undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [software engineering](http://www.se.sjtu.edu.cn/) system software track.
 
-A diligent learner, not talented however.<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WindowsXp-Beta&layout=compact&hide=scss,hcl,Tcl&langs_count=10&theme=tokyonight' width='400px'>
+I'm going to pursue a master degree in computer science in 2023fall.
+
+## More about me
+
+I'm a slow walker, but I never walk backward.<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WindowsXp-Beta&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px'>
 
 ### Also
 - fan of NBA :basketball:
@@ -26,8 +31,6 @@ A diligent learner, not talented however.<img align='right' src='https://github-
 - galgamer (a researcher to be precise :sunglasses:)
 - coding for fun
 - ...
-
-🤔 I’m currently learning **streaming database**, **operating system** and **k8s**. Welcome to all discussions on these topics🍻🍻
 
 📫 How to reach me: WindowsXp[At]sjtu[dot]edu[dot]cn
 

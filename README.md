@@ -39,9 +39,10 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   45 mins         ██████████▓░░░░░░░░░░░░░░   43.14 %
-Python     36 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 %
-Other      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Markdown       45 mins         ███████▓░░░░░░░░░░░░░░░░░   31.28 %
+OpenEdge ABL   36 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Python         36 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+Other          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->

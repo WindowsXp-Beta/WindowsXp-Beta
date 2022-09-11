@@ -39,7 +39,8 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Other      43 mins         ███████████▒░░░░░░░░░░░░░   45.19 %
+Markdown     56 mins         ███████████▓░░░░░░░░░░░░░   46.01 %
+Other        43 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
 ```
 
 <!--END_SECTION:waka-->

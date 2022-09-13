@@ -39,9 +39,9 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     47 mins         ████████████████▒░░░░░░░░   65.34 %
-C#           22 mins         ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Markdown     3 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   44.77 %
+YAML         2 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Other        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->

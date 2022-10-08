@@ -39,12 +39,9 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Python                     2 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   40.71 %
-Markdown                   1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-HTML                       43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-YAML                       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Java                       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Nginx configuration file   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Python   3 hrs 7 mins    ████████████████████▒░░░░   80.86 %
+HTML     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
 
 <!--END_SECTION:waka-->

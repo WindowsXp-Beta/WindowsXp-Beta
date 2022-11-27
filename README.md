@@ -39,11 +39,12 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Python       19 hrs 18 mins  ███████████████████▓░░░░░   79.22 %
-Markdown     1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Solidity     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Python       25 hrs 35 mins  ████████████████████░░░░░   80.57 %
+Markdown     1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Solidity     1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+YAML         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->

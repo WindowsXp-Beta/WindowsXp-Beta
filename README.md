@@ -39,12 +39,12 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-C                2 hrs 32 mins   ████████████▓░░░░░░░░░░░░   50.49 %
-Markdown         1 hr 41 mins    ████████▒░░░░░░░░░░░░░░░░   33.63 %
-Assembly         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-YAML             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-CMake            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Makefile         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Markdown         4 hrs 7 mins    █████████████▓░░░░░░░░░░░   54.55 %
+C                2 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.47 %
+Assembly         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+YAML             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+CMake            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Makefile         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->

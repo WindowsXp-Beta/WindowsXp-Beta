@@ -39,12 +39,12 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-C++          9 hrs 51 mins   ████████████████▒░░░░░░░░   65.81 %
-Java         1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-JavaScript   1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Markdown     1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-CMake        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+C++          11 hrs 35 mins  █████████████████████░░░░   83.36 %
+Markdown     1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Java         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+CMake        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+CSV          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 This is **WindowsXp**, aka. Xinpeng Wei, a senior undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [software engineering](http://www.se.sjtu.edu.cn/) system software track.
 
-I'm going to pursue a master's degree in [computer science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) at the [Georgia Institute of Technology](https://www.gatech.edu/) in the fall semester of 2023.
-
 ## More about me
 
 I'm a slow walker, but I never walk backward.<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WindowsXp-Beta&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px'>

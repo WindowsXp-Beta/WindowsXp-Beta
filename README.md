@@ -37,12 +37,12 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-C++          4 hrs 27 mins   ████████████░░░░░░░░░░░░░   47.45 %
-JavaScript   2 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-Go           1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-Python       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-CSV          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+C++          3 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   42.31 %
+JavaScript   2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Go           1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Python       44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+CSV          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->

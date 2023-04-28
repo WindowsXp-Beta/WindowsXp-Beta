@@ -37,12 +37,12 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```text
-Go         1 hr 42 mins    ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-Markdown   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Python     1 hr 14 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
-TeX        53 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Makefile   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-C++        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Go         2 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 %
+Python     1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+Markdown   1 hr 22 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+TeX        53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Makefile   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+C++        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->

@@ -37,11 +37,11 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```txt
-Python         12 hrs 30 mins  ██████████████████▓░░░░░░   74.63 %
-TeX            2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Text           1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Singularity    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-OpenEdge ABL   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Python         12 hrs 52 mins  ██████████████████░░░░░░░   72.44 %
+Cuda           1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+TeX            1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+C++            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+BibTeX         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->

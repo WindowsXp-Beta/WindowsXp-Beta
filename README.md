@@ -38,8 +38,8 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 
 ```txt
 Python       5 hrs 26 mins   ██████████████████████▓░░   91.10 %
-CSV          31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+CSV          31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Cuda         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 

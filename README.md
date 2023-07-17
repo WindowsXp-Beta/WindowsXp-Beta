@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 # Hello world :earth_asia:
 
 ![GitHub followers](https://img.shields.io/github/followers/WindowsXp-Beta?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WindowsXp-Beta)
 
-This is **WindowsXp**, aka. Xinpeng Wei, a senior undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [software engineering](http://www.se.sjtu.edu.cn/) system software track.
+This is Xinpeng Wei and you may find me as **WindowsXp** on the Internet.
+
+I just graduated from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) with a B.Eng. in [Software Engineering](http://www.se.sjtu.edu.cn/). My track is system software.
+
+Currently I'm hacking machine learning system at ByteDance, AML team.
+
+I'm going to [Georgia Institute of Technology](https://www.gatech.edu/) to pursue a master's degree in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) in the upcoming fall.
 
 ## More about me
 
@@ -30,7 +35,7 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 - coding for fun
 - ...
 
-📫 How to reach me: WindowsXp[At]sjtu[dot]edu[dot]cn
+📫 How to reach me: william.xp.wei[at]gatech[dot]edu
 
 ### Weekly Touching Fish Record
 

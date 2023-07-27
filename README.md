@@ -42,9 +42,11 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```txt
-C++      1 hr 16 mins    ███████████████████▒░░░░░   77.66 %
-Python   21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C++      1 hr 37 mins    ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+Python   1 hr 36 mins    ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+C        1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+JSON     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Cuda     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 This is Xinpeng Wei and you may find me as **WindowsXp** on the Internet.
 
-I just graduated from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) with a B.Eng. in [Software Engineering](http://www.se.sjtu.edu.cn/). My track is system software.
+I'm a 1st year master's student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). Before that, I received my B.Eng. degree in [Software Engineering](http://www.se.sjtu.edu.cn/)(system software track) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-Currently I'm hacking machine learning system at ByteDance, AML team.
-
-I'm going to [Georgia Institute of Technology](https://www.gatech.edu/) to pursue a master's degree in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) in the upcoming fall.
+As a computer systems enthusiast, my current focus centers on machine learning systems and high-performance/parallel computing. Nevertheless, I also have extensive experience developing operating systems, cloud infrastructure, and database systems.
 
 ## More about me
 

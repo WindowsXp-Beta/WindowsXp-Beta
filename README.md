@@ -40,11 +40,11 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 27 mins    ████████▒░░░░░░░░░░░░░░░░   33.11 %
-GDScript         52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Docker           36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-YAML             29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Bash             27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+C++              2 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.17 %
+Python           1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+GDScript         58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Docker           36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+YAML             33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->

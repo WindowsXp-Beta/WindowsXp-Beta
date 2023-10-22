@@ -40,11 +40,11 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```txt
-Cuda             2 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   36.58 %
-Python           1 hr 59 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-YAML             31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-CMake            24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Assembly         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Python           2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.64 %
+Cuda             1 hr 48 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+YAML             31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+CMake            24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Assembly         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->

@@ -20,7 +20,7 @@ This is Xinpeng Wei and you may find me as **WindowsXp** on the Internet.
 
 I'm a 1st year master's student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). Before that, I received my B.Eng. degree in [Software Engineering](http://www.se.sjtu.edu.cn/)(system software track) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-As a computer systems enthusiast, my current focus centers on building scalable and robust systems for large-scale machine learning workloads like large language models(LLMs). Specifically, I'm dedicated to high-performance/parallel computing(e.g. CUDA), distributed training/inference(e.g. EP, DP, PP, TP), machine learning frameworks(e.g. PyTorch), and other fancy technologies in this emerging field.
+As a computer systems enthusiast, my current focus centers on building scalable and robust systems for large-scale machine learning workloads like large language models(LLMs). Specifically, I'm dedicated to high-performance/parallel computing(e.g. CUDA), distributed training(e.g. EP, DP, PP, TP), machine learning frameworks(e.g. PyTorch), and other fancy technologies in this emerging field.
 
 Additionally, I also have extensive experience developing operating systems, cloud infrastructure(Kubernetes), and database systems(Cloud-native Streaming Database).
 

@@ -42,8 +42,7 @@ I'm a slow walker, but I never walk backward.<img align='right' src='https://git
 <!--START_SECTION:waka-->
 
 ```txt
-Python   34 mins         ██████████████████████▓░░   90.40 %
-CSV      3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Python   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 This is Xinpeng Wei and you may find me as **WindowsXp** on the Internet.
 
-I'm a 1st year master's student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). Before that, I received my B.Eng. degree in [Software Engineering](http://www.se.sjtu.edu.cn/)(system software track) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I'm a 2nd year master's student and GTA fellowship recipient at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). Before that, I received my B.Eng. degree in [Software Engineering](http://www.se.sjtu.edu.cn/)(system software track) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-As a computer systems enthusiast, my current focus centers on building scalable and robust systems for large-scale machine learning workloads like large language models(LLMs). Specifically, I'm dedicated to high-performance/parallel computing(e.g. CUDA), distributed training(e.g. EP, DP, PP, TP), machine learning frameworks(e.g. PyTorch), and other fancy technologies in this emerging field.
+As a computer systems enthusiast, my current focus centers on building scalable and robust systems for large-scale machine learning like large language models(LLMs). Specifically, I have experience/am getting my hands dirty in distributed training(e.g. 5D parallel), RLHF framework(e.g. veRL), high-performance/parallel programming(e.g. CUDA, MPI), inference frameworks(e.g. vLLM, Sglang), and other fancy technologies in this emerging field.
 
-Additionally, I also have extensive experience developing operating systems, cloud infrastructure(Kubernetes), and database systems(Cloud-native Streaming Database).
+I used to work on traditional systems topics like operating systems, cloud infrastructure(Kubernetes), and database systems.
 
 ## More about me
 
